@@ -7,11 +7,10 @@
 ## Code Journal
 
  - I looked at bunch of templates and collected ideas.
- - I learned journal ways to to map out a web site 
- - I learned why is it important and what is it
+ - This is one of them and i actualy learn the purpose and better way to site a map from this site.
  - [miro](https://miro.com/blog/how-to-create-a-sitemap/)
- - [backlinko](https://backlinko.com/hub/seo/sitemaps)
- - [Quicksprout](https://www.quicksprout.com/creating-website-sitemap/)
+ - This was realy good learning process i can viualize a site with maping 
+  it.
 
 ### Figjam Content
 
