@@ -6,9 +6,8 @@
 
 ## Code Journal
 
- - I looked at bunch of templates and collected ideas.
- - I learned journal ways to to map out a web site 
- - I learned why is it important and what is it
+- A sitemap is a blueprint of your website that help search engines find, crawl and index all of your website’s content. Sitemaps also tell search engines which pages on your site are most important.
+- To better understand how the result might look, we decided to share Miro’s site map and also an example of how it might look like if we bloated the number of pages and didn’t think through the structure. You can use these as an example when you are creating a map for your product’s website.
  - [miro](https://miro.com/blog/how-to-create-a-sitemap/)
  - [backlinko](https://backlinko.com/hub/seo/sitemaps)
  - [Quicksprout](https://www.quicksprout.com/creating-website-sitemap/)
@@ -36,6 +35,9 @@
 - I learnend how the url works
 - Most importent thing i learned is how to create a component in storyblok
 - And what fields i am going to need to create a card or a post
+- I looked at bunch of templates and collected ideas.
+ - I learned journal ways to to map out a web site 
+ - I learned why is it important and what is it
 
 ### Ideas for Card:
 
